@@ -10,7 +10,8 @@ Places where Rivian owners and fans come together online.
   A traditional forum dedicated to Rivian
 - [Rivian Subreddit](https://reddit.com/r/rivian):
   Stay up to date on Rivian news
-- [Rivian Stories](https://s00n.rivianstories.com/)
+- [Rivian Stories](https://s00n.rivianstories.com/):
+  A Rivian-focused community site. News, user posts, regional clubs, etc.
 
 
 ## Other Sites and Projects
