@@ -24,9 +24,10 @@ Other sites/projects by members of the Rivian community.
   View your vehicle's data in [Home Assistant](https://www.home-assistant.io)
 - [Rivian Community](https://github.com/rivian-community):
   A collection of community-sourced projects. (You are here!)
+- [RivDocs](https://rivian-api.kaedenb.org):
+  Unofficial Rivian API documentation
 - [Wishlist](https://rivian.software/wishlist/):
   Vote for your favorite ideas for Rivian improvements, and add your own
-- [RivDocs](https://rivian-api.kaedenb.org): Unofficial Rivian API documentation
 
 
 ## Rivian Official
